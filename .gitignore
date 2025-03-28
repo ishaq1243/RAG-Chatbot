@@ -1,0 +1,10 @@
+# Ignore environment files
+.env
+
+# Optional: Ignore unnecessary files
+uploaded_files/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
